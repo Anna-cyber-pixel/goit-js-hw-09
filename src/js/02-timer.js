@@ -70,3 +70,5 @@ function timerView({ days, hours, minutes, seconds }) {
   refs.dataMinutes.textContent = `${minutes}`;
   refs.dataSeconds.textContent = `${seconds}`;
 }
+
+
